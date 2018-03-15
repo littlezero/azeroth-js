@@ -19,3 +19,5 @@ Some math $a$ here
 <div class="cover-holder"></div>
 
 $$ \begin{align} A & = B \\\ & = C \end{align} $$
+
+--@TAGS: test
